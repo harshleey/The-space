@@ -1,0 +1,17 @@
+import React from "react"
+
+export default function Main() {
+    return (
+            <main className="main">
+                <div className="main-content">
+                    <p className="top">So, you want to travel to</p>
+                    <h1>Space</h1>
+                    <p className="bottom-main">Let’s face it; if you want to go to space, you might as well genuinely go to 
+                    outer space and not hover kind of on the edge of it. Well sit back, and relax 
+                    because we’ll give you a truly out of this world experience!</p>
+                </div>
+                    <button className="explore">Explore</button>
+                
+            </main>
+    )
+}
