@@ -20,7 +20,7 @@ const Destination = ({ tab }) => {
             {destinationData.map((tab, i) =>
                 <div key={i}>
                     {activeTab === `${tab.id}` && 
-                    <img src={tab.images.png} className="destination-img"/>}
+                    <img src={tab.images.png} className="destination-img" alt={`${tab.name} - image`}/>}
                 </div>
             )}
         </div>

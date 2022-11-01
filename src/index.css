@@ -6,12 +6,12 @@
 :root {
     --font-family-big: 'Bellefair', serif;
     --font-family-small: 'Barlow Condensed', sans-serif;
-    --main-background-mobile: url('../images/home/background-home-mobile.jpg');
-    --main-background-tablet: url('../images/home/background-home-tablet.jpg');
-    --main-background-desktop: url('../images/home/background-home-desktop.jpg');
-    --dest-background-mobile: url('../images/destination/background-destination-mobile.jpg');
-    --dest-background-tablet: url('../images/destination/background-destination-tablet.jpg');
-    --dest-background-desktop: url('../images/destination/background-destination-desktop.jpg');
+    --main-background-mobile: url('assets/home/background-home-mobile.jpg');
+    --main-background-tablet: url('assets/home/background-home-tablet.jpg');
+    --main-background-desktop: url('assets/home/background-home-desktop.jpg');
+    --dest-background-mobile: url('assets/destination/background-destination-mobile.jpg');
+    --dest-background-tablet: url('assets/destination/background-destination-tablet.jpg');
+    --dest-background-desktop: url('assets/destination/background-destination-desktop.jpg');
     --color-black: rgb(11, 13, 23);
     --color-blue: rgb(208, 214, 249);
     --color-offwhite: rgb(255, 255, 255)
